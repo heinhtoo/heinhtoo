@@ -3,7 +3,7 @@ I'm Hein Htoo, a passionate fullstack freelance developer with expertise in craf
 
 ## Portfolio 🚀
 
-Check out some of my latest projects on my [portfolio](https://heinhtoo.vercel.app/). Here are a few highlights:
+Check out some of my latest projects on my [portfolio](https://devil-x.vercel.app/). Here are a few highlights:
 
 - **Pyi Twin Phyit**: [Demo](http://pyitwinphyit.com/)
   - A place for supporting domestic products in Myanmar. Shop Now Sell Now. Online support 24/7.
@@ -19,7 +19,7 @@ Feel free to explore the projects and see firsthand the quality and dedication I
 
 ## Blog ✍️
 
-Stay updated with my thoughts, experiences, and insights on my [blog](https://heinhtoo.vercel.app/blogs). I regularly share tips, tricks, and lessons learned throughout my journey as a developer.
+Stay updated with my thoughts, experiences, and insights on my [blog](https://devil-x.vercel.app/blogs). I regularly share tips, tricks, and lessons learned throughout my journey as a developer.
 
 ## Technologies I Love ❤️
 
